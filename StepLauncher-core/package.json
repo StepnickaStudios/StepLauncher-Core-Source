@@ -1,0 +1,29 @@
+{
+  "name": "steplauncher-core",
+  "version": "1.5.0",
+  "description": "Módulo oficial de StepLauncher para descargar y lanzar Minecraft fácilmente desde Node.js o Electron.",
+  "keywords": [
+    "minecraft",
+    "minecraftVersions",
+    "launcher",
+    "electron",
+    "nodejs",
+    "stepnickastudios",
+    "minecraft-launcher",
+    "steplauncher",
+    "forge",
+    "fabric",
+    "neoforge",
+    "vanillaMinecraft",
+    "optifine"
+  ],
+  "main": "src/index.js",
+  "author": "Santiago Stepnicka",
+  "license": "MIT",
+  "type": "commonjs",
+  "icon": "Icon.ico",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StepnickaStudios/StepLauncher-Core.git"
+  }
+}
